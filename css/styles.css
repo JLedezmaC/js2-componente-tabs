@@ -34,3 +34,21 @@ body {
   padding: 20px;
   border: 1px solid #999;
 }
+
+
+
+#tab-2{
+  display: none;
+}
+
+#tab-3{
+  display: none;
+}
+
+#tab-4{
+  display: none;
+}
+
+#tab-5{
+  display: none;
+}
